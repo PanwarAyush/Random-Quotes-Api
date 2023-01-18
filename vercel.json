@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "randomQuoteApi",
+    "name": "random-Quotes-Api",
     "builds": [
        { "src": "server.js", "use": "@vercel/node" }
     ],
