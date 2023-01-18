@@ -1,0 +1,20 @@
+{
+  "name": "randomquotesapi",
+  "version": "1.0.0",
+  "description": "Random Quotes api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanwarAyush/Random-Quotes-Api.git"
+  },
+  "author": "Ayush panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanwarAyush/Random-Quotes-Api/issues"
+  },
+  "homepage": "https://github.com/PanwarAyush/Random-Quotes-Api#readme"
+}
